@@ -15,9 +15,6 @@ metadata:
     pipelines.appstudio.openshift.io/type: build
   name: ilab-on-ocp-poc-on-push
   namespace: mshikalw-tenantupdated with the other images, we don't build these but we do use them within product, and we would like to have these automatically provided to platform for consumption by DSP component. I'll follow up on what the names should be for these. It's possible you guys already have one for oauth proxy we can re-use in platform operator side, if so let me know what that is.
-
-￼
-
 spec:
   params:
   - name: git-url
