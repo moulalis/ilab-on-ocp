@@ -63,7 +63,7 @@ types-psutil==6.1.0.20241221
     # via mypy
 types-setuptools==75.8.0.20250110
     # via mypy
-typing-extensions==4.12.2
+typing-extensions==4.13.2
     # via
     #   mypy
     #   setuptools-scm
