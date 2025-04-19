@@ -33,7 +33,7 @@ mypy==1.14.0
     # via charset-normalizer
 mypy-extensions==1.0.0
     # via mypy
-packaging==24.2
+packaging==25.0
     # via setuptools-scm
 pathspec==0.12.1
     # via hatchling
