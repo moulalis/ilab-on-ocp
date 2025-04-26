@@ -31,7 +31,7 @@ maturin==1.8.1
     # via ruff
 mypy==1.14.0
     # via charset-normalizer
-mypy-extensions==1.0.0
+mypy-extensions==1.1.0
     # via mypy
 packaging==24.2
     # via setuptools-scm
