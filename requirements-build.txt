@@ -37,7 +37,7 @@ packaging==24.2
     # via setuptools-scm
 pathspec==0.12.1
     # via hatchling
-pluggy==1.5.0
+pluggy==1.6.0
     # via hatchling
 poetry-core==2.0.1
     # via
